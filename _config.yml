@@ -1,0 +1,12 @@
+title: 🤖 AI Resource Collection
+email: example@example.org
+description: >- # this means to ignore newlines until "baseurl:"
+  🤖 Here you will find a curated list of articles and repositories that cover a wide range of topics within the field of AI. 
+theme: jekyll-theme-cayman
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
